@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - Snes9x": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - Snes9x",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - bsnes Accuracy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - bsnes Accuracy",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - bsnes Balanced": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - bsnes Balanced",
@@ -217,8 +214,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - bsnes Performance": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - bsnes Performance",
@@ -272,8 +268,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - bsnes-mercury Accuracy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - bsnes-mercury Accuracy",
@@ -327,8 +322,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - bsnes-mercury Balanced": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - bsnes-mercury Balanced",
@@ -382,8 +376,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - bsnes-mercury Performance": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - bsnes-mercury Performance",
@@ -437,8 +430,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - higan Accuracy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - higan Accuracy",
@@ -492,8 +484,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo SNES - Retroarch - nSide Balanced": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo SNES - Retroarch - nSide Balanced",

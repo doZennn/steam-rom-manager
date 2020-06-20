@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Microsoft DOS - GoG": {
 		"parserType": "Glob",
 		"configTitle": "DOS - GoG",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Microsoft DOS - Retroarch - DOSBox (Requires .conf matching game folder name in with executable)": {
 		"parserType": "Glob",
 		"configTitle": "DOS - Retroarch - DOSBox",

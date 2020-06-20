@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Panasonic 3DO - Retroarch - 4DO": {
 		"parserType": "Glob",
 		"configTitle": "3DO - Retroarch - 4DO",

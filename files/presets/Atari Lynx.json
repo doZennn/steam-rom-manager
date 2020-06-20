@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Atari Lynx - Retroarch - Handy": {
 		"parserType": "Glob",
 		"configTitle": "Atari Lynx - Retroarch - Handy",

@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo Wii U - Cemu (WUD/WUX)": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo WiiU - Cemu (WUD/WUX)",

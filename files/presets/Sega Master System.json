@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega Master System - Retroarch - Gearsystem": {
 		"parserType": "Glob",
 		"configTitle": "Sega Master System - Retroarch - Gearsystem",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega Master System - Retroarch - Genesis Plus GX": {
 		"parserType": "Glob",
 		"configTitle": "Sega Master System - Retroarch - Genesis Plus GX",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega Master System - Retroarch - PicoDrive": {
 		"parserType": "Glob",
 		"configTitle": "Sega Master System - Retroarch - PicoDrive",

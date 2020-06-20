@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo DS - Retroarch - melonDS": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo DS - Retroarch - melonDS",

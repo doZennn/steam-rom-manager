@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Color - Retroarch - Gambatte": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Color - Retroarch - Gambatte",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Color - Retroarch - Gearboy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Color - Retroarch - Gearboy",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Color - Retroarch - SameBoy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Color - Retroarch - SameBoy",
@@ -217,8 +214,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Color - Retroarch - TGB Dual": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Color - Retroarch - TGB Dual",
@@ -272,8 +268,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Color - Retroarch - mGBA": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Color - Retroarch - mGBA",

@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega CD/Mega CD - Retroarch - PicoDrive": {
 		"parserType": "Glob",
 		"configTitle": "Sega CD/Mega CD - Retroarch - PicoDrive",

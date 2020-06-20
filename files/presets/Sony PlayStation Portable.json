@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sony PlayStation Portable - Retroarch - PPSSPP": {
 		"parserType": "Glob",
 		"configTitle": "Sony PlayStation Portable - Retroarch - PPSSPP",

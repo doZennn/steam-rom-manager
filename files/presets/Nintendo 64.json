@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo 64 - Mupen64Plus": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo 64 - Mupen64Plus",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo 64 - Project64": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo 64 - Project64",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo 64 - Retroarch - Mupen64Plus Next": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo 64 - Retroarch - Mupen64Plus Next",
@@ -217,8 +214,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo 64 - Retroarch - Mupen64Plus Next GLES3": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo 64 - Retroarch - Mupen64Plus Next GLES3",

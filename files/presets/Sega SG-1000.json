@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega SG-1000 - Retroarch - Gearsystem": {
 		"parserType": "Glob",
 		"configTitle": "Sega SG-1000 - Retroarch - Gearsystem",

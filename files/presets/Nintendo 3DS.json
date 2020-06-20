@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo 3DS - Retroarch - Citra": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo 3DS - Retroarch - Citra",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo 3DS - Retroarch - Citra Canary": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo 3DS - Retroarch - Citra Canary",

@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo Wii - Retroarch - Dolphin": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo Wii - Retroarch - Dolphin",

@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy - Retroarch - Gambatte": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy - Retroarch - Gambatte",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy - Retroarch - Gearboy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy - Retroarch - Gearboy",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy - Retroarch - SameBoy": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy - Retroarch - SameBoy",
@@ -217,8 +214,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy - Retroarch - TGB Dual": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy - Retroarch - TGB Dual",
@@ -272,8 +268,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy - Retroarch - mGBA": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy - Retroarch - mGBA",

@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega Saturn - Retroarch - Yabause": {
 		"parserType": "Glob",
 		"configTitle": "Sega Saturn - Retroarch - Yabause",

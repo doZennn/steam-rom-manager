@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameCube - Retroarch - Dolphin": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameCube - Retroarch - Dolphin",

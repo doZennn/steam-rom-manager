@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Amstrad CPC - Retroarch - CrocoDS": {
 		"parserType": "Glob",
 		"configTitle": "Amstrad CPC - Retroarch - CrocoDS",

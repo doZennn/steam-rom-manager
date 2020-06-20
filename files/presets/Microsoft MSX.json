@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Microsoft MSX - Retroarch - fMSX": {
 		"parserType": "Glob",
 		"configTitle": "ASCII+Microsoft MSX - Retroarch - fMSX",

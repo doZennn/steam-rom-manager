@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega Game Gear - Retroarch - Genesis Plus GX": {
 		"parserType": "Glob",
 		"configTitle": "Sega Game Gear - Retroarch - Genesis Plus GX",

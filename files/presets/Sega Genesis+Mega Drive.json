@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Sega Genesis/Mega Drive - Retroarch - PicoDrive": {
 		"parserType": "Glob",
 		"configTitle": "Sega Genesis/Mega Drive - Retroarch - PicoDrive",

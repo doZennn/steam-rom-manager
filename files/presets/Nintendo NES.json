@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo NES - Retroarch - FCEUmm": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo NES - Retroarch - FCEUmm",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo NES - Retroarch - Mesen": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo NES - Retroarch - Mesen",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo NES - Retroarch - Nestopia UE": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo NES - Retroarch - Nestopia UE",
@@ -217,8 +214,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo NES - Retroarch - QuickNES": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo NES - Retroarch - QuickNES",
@@ -272,8 +268,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo NES - Retroarch - bnes": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo NES - Retroarch - bnes",

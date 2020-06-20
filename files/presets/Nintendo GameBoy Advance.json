@@ -52,8 +52,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Advance - Retroarch - Meteor": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Advance - Retroarch - Meteor",
@@ -107,8 +106,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Advance - Retroarch - VBA Next": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Advance - Retroarch - VBA Next",
@@ -162,8 +160,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Advance - Retroarch - VBA-M": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Advance - Retroarch - VBA-M",
@@ -217,8 +214,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Advance - Retroarch - gbSP": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Advance - Retroarch - gbSP",
@@ -272,8 +268,7 @@
 			"appendArgsToExecutable": true
 		}
 	}
-}
-{
+,
 	"Nintendo GameBoy Advance - Retroarch - mGBA": {
 		"parserType": "Glob",
 		"configTitle": "Nintendo GameBoy Advance - Retroarch - mGBA",
